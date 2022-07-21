@@ -58,7 +58,7 @@ html {
   margin-top: 15px;
   color: var(--blue);
   font-weight: 600;
-  
+  font-size: 17px;  
 }
 
 .tree-container .links-container {
