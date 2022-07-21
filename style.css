@@ -20,7 +20,7 @@ html {
 
 .container {
   width: 100vw;
-  height: 100vh;
+  height: 97vh;
 
   display: flex;
   align-items: center;
@@ -97,7 +97,7 @@ html {
  
   margin-top: 40px;
 
-  display: grid; /*grid*/
+  display: flex; /*grid*/
   align-items: center;
   grid-template-columns: repeat(5, 1fr);
   gap: 29px;
