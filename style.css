@@ -97,7 +97,7 @@ html {
  
   margin-top: 40px;
 
-  display: flex; /*grid*/
+  display: grid; /*grid*/
   align-items: center;
   grid-template-columns: repeat(5, 1fr);
   gap: 29px;
