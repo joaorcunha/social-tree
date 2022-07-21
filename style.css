@@ -58,7 +58,7 @@ html {
   margin-top: 15px;
   color: var(--blue);
   font-weight: 600;
-  font-size: 17px;  
+  font-size: 17px; 
 }
 
 .tree-container .links-container {
@@ -75,9 +75,9 @@ html {
   border-radius: 25px;
   background-color: var(--blue);
 
-  font-size: 16px;
+  font-size: 17px;
   color: var(--body-bg-color);
-  text-transform: uppercase;
+  text-transform: capitalize;
   text-align: center;
   font-weight: 600;
 
