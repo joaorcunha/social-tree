@@ -8,7 +8,7 @@
 <br />
 
 <p align="center">  
-   <img src="https://user-images.githubusercontent.com/107435258/179149480-f1246e13-a557-4e0a-a936-10943a959399.PNG" />    
+   <img src="https://joaorcunha.github.io/social-tree-2/" />    
 </p>
 
 <p align="center">
