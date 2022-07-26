@@ -11,14 +11,14 @@
    <img src="https://github.com/joaorcunha/social-tree-2/blob/gh-pages/banner.PNG?raw=true" />
    
  </p>
-
-<p align="center">
-  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">joaorcunha.github.io/social-tree</a></em>
+ 
+ <p align="center">
+  Desafio Rocketseat - Social Tree
   
 </p>
 
 <p align="center">
-  Desafio Rocketseat - Social Tree
+  Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">joaorcunha.github.io/social-tree</a></em>
   
 </p>
 
