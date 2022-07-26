@@ -8,11 +8,18 @@
 <br />
 
 <p align="center">  
-   <img src="https://github.com/joaorcunha/social-tree-2/blob/gh-pages/banner.PNG?raw=true" />    
+   <img src="https://github.com/joaorcunha/social-tree-2/blob/gh-pages/banner.PNG?raw=true" />
+   
+ </p>
+
+<p align="center">
+  <em>Confira o resultado do desafio em: <a href="https://joaorcunha.github.io/social-tree/" target="_blank">joaorcunha.github.io/social-tree</a></em>
+  
 </p>
 
 <p align="center">
   Desafio Rocketseat - Social Tree
+  
 </p>
 
 ## :computer: Projeto
