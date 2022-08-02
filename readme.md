@@ -24,8 +24,6 @@
 
 ## :computer: Projeto
 
-<br />
-
 <p>Desafio proposto pela Rocketseat para criação de uma página com uma lista de links (Social Tree) que pode ser usada em perfis de redes sociais para direcionar o usuário para o local escolhido.
 </p>
 
