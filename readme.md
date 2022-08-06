@@ -1,5 +1,7 @@
 <h1 align="center">Social Tree</h1>
 
+<br />
+
 <p align="center">
   <img alt="Tech" src="https://img.shields.io/badge/HTML-ea6227?style=for-the-badge" />
   <img alt="Tech" src="https://img.shields.io/badge/CSS-149fda?style=for-the-badge" />
